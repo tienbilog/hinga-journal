@@ -1,6 +1,6 @@
-## Hinga - Journaling Application
+# Hinga - Journaling Application
 
-# Features: 
+## Features: 
 Check-ins -> As users open the application, a pop-up will appear that prompts a user to check in with their emotions. 
 
 Additional Check-in features: If a user enters "panicked" or any variation of it (in English), a pop-up will appear that allows users to permit the application to walk them through a grounding exercise. 
@@ -25,7 +25,7 @@ Calendar -> Via the mood calendar accessed in the sidebar, users can see the emo
 
 PLZ PLZ PLZ FEEL FREE TO SUGGEST MORE FEATURES WALA NA AKO MAISIP AND FEEDBACKS NA RIN
 
-# How to install (IOS Only):
+## How to install (IOS Only):
 1. Download **Expo Go** on your iPhone from the App Store
 2. Open this link: https://expo.dev/accounts/tienbilog/projects/journal-app2
 
