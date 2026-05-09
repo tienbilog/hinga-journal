@@ -27,7 +27,7 @@ PLZ PLZ PLZ FEEL FREE TO SUGGEST MORE FEATURES WALA NA AKO MAISIP AND FEEDBACKS 
 
 ## How to install (IOS Only):
 1. Download **Expo Go** on your iPhone from the App Store
-2. Open this link: https://expo.dev/accounts/tienbilog/projects/journal-app2
+2. Scan the QR code provided sa message kuh
 
 THANKS LOVE U ALL SM PLZ SUPPORT MY FIRST REAL TRUE PROJECT 
 - Bober
