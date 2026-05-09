@@ -25,7 +25,7 @@ Calendar -> Via the mood calendar accessed in the sidebar, users can see the emo
 
 PLZ PLZ PLZ FEEL FREE TO SUGGEST MORE FEATURES WALA NA AKO MAISIP AND FEEDBACKS NA RIN
 
-## How to install (IOS Only):
+## How to use (IOS Only):
 1. Download **Expo Go** on your iPhone from the App Store
 2. Scan the QR code provided sa message kuh
 
